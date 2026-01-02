@@ -252,11 +252,4 @@ git push origin feature/ma-feature
 
 Usage libre dans un cadre pédagogique.
 
-Si tu veux, je peux aussi te créer :
 
-✅ un README avec badges GitHub
-✅ un README avec images / schémas UML / architecture
-✅ un README plus minimaliste
-✅ un README sans technique (version scolaire)
-
-Dis-moi ce que tu préfères !
